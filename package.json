@@ -229,17 +229,17 @@
     "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.10",
     "webpack-merge": "^4.1.4",
-    "yarn": "^1.12.3"
+    "yarn": "^1.16.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.5.0",
+    "add": "^2.0.6",
     "devtron": "^1.4.0",
     "electron-debug": "^2.0.0",
     "electron-log": "^2.2.17",
     "electron-updater": "^3.2.3",
     "history": "^4.7.2",
     "react": "^16.6.3",
-    "react-bootstrap": "^1.0.0-beta.8",
     "react-dom": "^16.6.3",
     "react-hot-loader": "^4.3.12",
     "react-redux": "^5.1.1",
@@ -247,6 +247,8 @@
     "react-router-dom": "^4.3.1",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.87.1",
     "source-map-support": "^0.5.9"
   },
   "devEngines": {

@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/0tu1a4ua222i457r?svg=true)](https://ci.appveyor.com/project/thashepherd/rtw2-modloader)
+
 # Goals
 
 - Mod handling
@@ -13,6 +15,7 @@
 - 'World viewer' replays colony acquisitions over course of game
 
 - Watch save directory and fire hooks
+
   - On end of turn
   - On save
 
