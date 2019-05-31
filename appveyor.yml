@@ -1,11 +1,11 @@
-image: Visual Studio 2019
+image: Visual Studio 2015
 
 platform:
   - x64
 
 environment:
   matrix:
-    - nodejs_version: 10
+    - nodejs_version: '10'
 
 cache:
   - '%LOCALAPPDATA%/Yarn'
